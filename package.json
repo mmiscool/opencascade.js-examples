@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "opencascade.js": "^1.1.1",
-    "three": "^0.116.1"
+    "three": "^0.125.0"
   }
 }
